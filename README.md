@@ -18,3 +18,8 @@ The webpage should include:
 - `git status` (optional) - shows which files are staged or not staged
 - `git commit -m "insert note"` - this titles it with changes you made
 - `git push` - pushes all committed files
+
+### Additional Notes
+- Divide each section by <div> </div>
+- Create place holders for each section
+- Google how to do styling: ie huge text, side by side images, and how to make a list
