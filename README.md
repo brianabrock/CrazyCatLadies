@@ -20,6 +20,6 @@ The webpage should include:
 - `git push` - pushes all committed files
 
 ### Additional Notes
-- Divide each section by <div> </div>
+- Divide each section by '<div> </div>' 
 - Create place holders for each section
 - Google how to do styling: ie huge text, side by side images, and how to make a list
