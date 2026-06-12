@@ -11,3 +11,10 @@ The webpage should include:
 - 2 cat images taken from online
 - an ordered list (numbered) of 5 different cat facts
 - Create a version 2 of the webpage by moving all CSS into an "External" css file
+
+### Set Up
+- `command + s` - to save
+- `git add .` - stages changed files
+- `git status` (optional) - shows which files are staged or not staged
+- `git commit -m "insert note"` - this titles it with changes you made
+- `git push` - pushes all committed files
