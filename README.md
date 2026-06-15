@@ -24,3 +24,4 @@ The webpage should include:
 - Create place holders for each section
 - For images, put them in my directory tree
 - Google how to do styling: ie huge text, side by side images, and how to make a list
+- to change directories: cd + directory name
